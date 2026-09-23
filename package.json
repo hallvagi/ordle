@@ -10,6 +10,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "test": "vitest",
+    "build:words": "tsx scripts/buildWordList.ts",
     "words": "tsx words/index.ts"
   },
   "dependencies": {

@@ -1,11 +1,3 @@
-# Ordle
+# Ordle light
 
-[ordle.no](https://ordle.no/) is the norwegian version of wordle
-
-## Original game
-
-The english original game can be found on [powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/).
-
-## Analytics
-
-[Counter.dev](https://counter.dev/dashboard.html)
+[ordle light](https://www.gisnaas.net/) er en fork av ordle.no. Den eneste forskjellen mellom spillene er at ordle har ca. 8800 gyldig løsningsord, men ordle light har ca 2800. Dette gjør at det er færre obskure ord som løsninger i ordle light.

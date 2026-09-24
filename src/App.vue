@@ -26,7 +26,7 @@ watchEffect(() => {
 
 <template>
   <header>
-    <h1><span>ORD</span>LE</h1>
+    <h1><span>ORD</span>LE LIGHT</h1>
     <section>
       <button @click="showInfo = true" aria-label="info">
         <QuestionIcon />
